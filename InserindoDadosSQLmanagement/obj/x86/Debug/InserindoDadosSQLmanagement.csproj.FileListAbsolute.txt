@@ -1,0 +1,51 @@
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.csproj.GenerateResource.Cache
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.csprojResolveAssemblyReference.cache
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.csproj.GenerateResource.Cache
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.pdb
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.pdb
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.application
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.pdb
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Documents and Settings\Daniel\Meus documentos\Silas\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\OpcNetApi.Com.dll
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\OpcNetApi.dll
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\bin\Debug\OpcNetApi.Xml.dll
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.csprojResolveAssemblyReference.cache
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.csproj.GenerateResource.Cache
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC\2014-07-03 Programa Executável Note Silas\InserindoDadosSQLmanagement\obj\x86\Debug\InserindoDadosSQLmanagement.application

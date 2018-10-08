@@ -1,0 +1,13 @@
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Release\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Release\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Release\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\bin\Release\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.csproj.GenerateResource.Cache
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.exe.manifest
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.application
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.pdb
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.exe
+C:\Users\Silas\Desktop\TCC new\Visual C e SQL\VISUAL STUDIO 2010\VISUAL C e SQL PROGRAMA\InserindoDadosSQLmanagement\InserindoDadosSQLmanagement\obj\x86\Release\InserindoDadosSQLmanagement.pdb
